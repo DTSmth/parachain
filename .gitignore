@@ -1,1 +1,6 @@
 target/
+
+# Node data and secrets
+/data/
+/secret_ed25519
+*.priv
