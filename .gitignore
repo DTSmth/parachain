@@ -4,3 +4,4 @@ target/
 /data/
 /secret_ed25519
 *.priv
+start_node.sh
